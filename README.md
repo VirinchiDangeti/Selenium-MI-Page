@@ -1,8 +1,9 @@
 # Selenium-MI-Page
 
 Steps to Import the code
-1) Open the eclipse. File-> Import-> Existing Maven dependencies.
-2) Once the importing is done we can see all the existing files.
+1) Unzip the files and check the contents available in the Folder
+2) Open the eclipse. File-> Import-> Existing Maven dependencies.
+3) Once the importing is done we can see all the existing files.
 
 About the code:
 1) In Selenium Framework we have src/test/java where we have the main code of the program. In which we have 4 types of packages.
